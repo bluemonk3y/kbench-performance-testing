@@ -1,0 +1,10 @@
+{"request":{"path":"used","mbean":"java.lang:type=Memory","attribute":"HeapMemoryUsage","type":"read"},"value":625648376,"timestamp":1584979397,"status":200}\n
+{"request":{"path":"used","mbean":"java.lang:type=Memory","attribute":"HeapMemoryUsage","type":"read"},"value":626172912,"timestamp":1584979407,"status":200}\n
+{"request":{"path":"used","mbean":"java.lang:type=Memory","attribute":"HeapMemoryUsage","type":"read"},"value":720989664,"timestamp":1584979417,"status":200}\n
+{"request":{"path":"used","mbean":"java.lang:type=Memory","attribute":"HeapMemoryUsage","type":"read"},"value":636203792,"timestamp":1584979427,"status":200}\n
+{"request":{"path":"used","mbean":"java.lang:type=Memory","attribute":"HeapMemoryUsage","type":"read"},"value":762675744,"timestamp":1584979437,"status":200}\n
+{"request":{"path":"used","mbean":"java.lang:type=Memory","attribute":"HeapMemoryUsage","type":"read"},"value":757164440,"timestamp":1584979447,"status":200}\n
+{"request":{"path":"used","mbean":"java.lang:type=Memory","attribute":"HeapMemoryUsage","type":"read"},"value":868869648,"timestamp":1584979457,"status":200}\n
+{"request":{"path":"used","mbean":"java.lang:type=Memory","attribute":"HeapMemoryUsage","type":"read"},"value":444299968,"timestamp":1584979467,"status":200}\n
+{"request":{"path":"used","mbean":"java.lang:type=Memory","attribute":"HeapMemoryUsage","type":"read"},"value":827293600,"timestamp":1584979477,"status":200}\n
+{"request":{"path":"used","mbean":"java.lang:type=Memory","attribute":"HeapMemoryUsage","type":"read"},"value":924811168,"timestamp":1584979487,"status":200}\n
